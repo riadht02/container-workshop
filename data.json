@@ -1,0 +1,22 @@
+{
+    "infos": {
+        "title": "Déployer vos conteneurs Docker dans Azure",
+        "github": "https://github.com/thomasrannou/aks-workshop",
+        "description": "Ce workshop, accessible à tous les développeurs même sans connaissance de Docker ou d'Azure, vous permettra de découvrir le déploiement d'application conteneurisée au travers de différents services Azure."
+    },
+    "authors": [
+        {
+            "name": "Thomas Rannou",
+            "url": "https://twitter.com/thomas_rannou",
+            "avatar": "thomas.png"
+        },
+        {
+            "name": "Olivier Leplus",
+            "url": "https://twitter.com/olivierleplus",
+            "avatar": "olivier.png"
+        }
+    ],
+    "tracking": {
+        "mcid": "AZ-MVP-5004246"
+    }
+}
