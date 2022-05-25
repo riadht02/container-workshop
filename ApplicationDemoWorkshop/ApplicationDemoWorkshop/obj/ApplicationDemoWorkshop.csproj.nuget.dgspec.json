@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {}
+    "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {
+    "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+        "projectUniqueName": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
         "projectName": "ApplicationDemoWorkshop",
-        "projectPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+        "projectPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
         "packagesPath": "C:\\Users\\Riadh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\obj\\",
+        "outputPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riadh\\AppData\\Roaming\\NuGet\\NuGet.Config",

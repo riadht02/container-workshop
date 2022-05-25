@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpaD7dPWa9+ACYRiIbTGyIBkBem7zJTausqFmLm3JONOXd18cOycbccB81uMTQnvP1pSih/vH39NyOo2RsjRvA==",
+  "dgSpecHash": "LP+oRqIOiD+F0GNasFAGRVZWf2efijFErQtWAZFAevPyRhSRKjSKtRtAMYKZ3nOJ0r8DXqQJAqshEIeEGeQcAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+  "projectFilePath": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riadh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
