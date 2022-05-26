@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: appworkshop
-        image: acrworkshopdevcongalaxy.azurecr.io/appworkshop:v1
+        image: acrworkshopdevcongalaxy.azurecr.io/appworkshop:v2
         ports:
         - containerPort: 80
         resources:
