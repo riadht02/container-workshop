@@ -3,14 +3,16 @@
 @{
     ViewData["Title"] = "RTE-technical demo for Agyla";
 }
-
+@using static ApplicationDemoWorkshop.Pages.GlobalVariables
+@{GlobalVariables.SessionCount++; }
 <div class="text-center">
     <h1 class="display-4"> Welcome to the future ! </h1>
     <img src="http://www.agyla.cloud/wp-content/uploads/2021/02/Logo-Agyla-Cloud.png" />
 </div>
 <div class="row">
     <div class="column">
-       
+        <h2>Nombre d'utilisateur</h2>
+        <h3>@GlobalVariables.SessionCount</h3>
     </div>
 </div>
 

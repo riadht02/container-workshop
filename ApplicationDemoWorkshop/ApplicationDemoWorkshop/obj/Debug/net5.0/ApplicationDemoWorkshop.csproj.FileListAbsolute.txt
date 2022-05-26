@@ -49,7 +49,6 @@ C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDe
 C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\bin\Debug\net5.0\ApplicationDemoWorkshop.pdb
 C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\bin\Debug\net5.0\ApplicationDemoWorkshop.Views.dll
 C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\bin\Debug\net5.0\ApplicationDemoWorkshop.Views.pdb
-C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\net5.0\ApplicationDemoWorkshop.csproj.AssemblyReference.cache
 C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\net5.0\ApplicationDemoWorkshop.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\net5.0\ApplicationDemoWorkshop.AssemblyInfoInputs.cache
 C:\Users\Riadh\MSbuild\container-workshop-agyla\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\net5.0\ApplicationDemoWorkshop.AssemblyInfo.cs
