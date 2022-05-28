@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.9": {
         "type": "package",
         "build": {
@@ -78,36 +78,36 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.9"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Riadh\\.nuget\\packages\\": {}
+    "C:\\Users\\vza560\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+      "projectUniqueName": "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
       "projectName": "ApplicationDemoWorkshop",
-      "projectPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
-      "packagesPath": "C:\\Users\\Riadh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop-agyla\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\obj\\",
+      "projectPath": "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+      "packagesPath": "C:\\Users\\vza560\\.nuget\\packages\\",
+      "outputPath": "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Riadh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vza560\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -118,8 +118,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
@@ -144,7 +144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
