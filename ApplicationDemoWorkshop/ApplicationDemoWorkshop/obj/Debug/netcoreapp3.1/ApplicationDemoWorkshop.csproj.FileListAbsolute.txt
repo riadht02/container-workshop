@@ -34,3 +34,6 @@ C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoW
 C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\netcoreapp3.1\ApplicationDemoWorkshop.pdb
 C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\netcoreapp3.1\ApplicationDemoWorkshop.genruntimeconfig.cache
 C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\obj\Debug\netcoreapp3.1\ApplicationDemoWorkshop.csproj.CopyComplete
+C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\bin\Debug\netcoreapp3.1\libman.json
+C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CodeSources\trash\container-workshop\ApplicationDemoWorkshop\ApplicationDemoWorkshop\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
