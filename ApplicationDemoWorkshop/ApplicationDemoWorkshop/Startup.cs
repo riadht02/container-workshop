@@ -19,7 +19,7 @@ namespace ApplicationDemoWorkshop
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            services.AddSignalR();
+            services.AddSignalR().AddAzureSignalR(); 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,12 +42,12 @@ namespace ApplicationDemoWorkshop
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAzureSignalR(route => { route.MapHub<MonitorHub>("/monitorHub"); });
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-                endpoints.MapHub<MonitorHub>("/monitorHub");
-            });
+                            });
         }
     }
 }
