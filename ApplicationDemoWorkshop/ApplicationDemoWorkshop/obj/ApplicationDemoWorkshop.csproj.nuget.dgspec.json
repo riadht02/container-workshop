@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {}
+    "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {}
   },
   "projects": {
-    "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {
+    "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+        "projectUniqueName": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
         "projectName": "ApplicationDemoWorkshop",
-        "projectPath": "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
-        "packagesPath": "C:\\Users\\vza560\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeSources\\trash\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\obj\\",
+        "projectPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop.csproj",
+        "packagesPath": "C:\\Users\\Riadh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Riadh\\MSbuild\\container-workshop\\ApplicationDemoWorkshop\\ApplicationDemoWorkshop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vza560\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Riadh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +44,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Azure.SignalR": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
@@ -63,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

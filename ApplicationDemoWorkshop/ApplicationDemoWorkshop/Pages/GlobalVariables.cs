@@ -23,7 +23,7 @@ namespace ApplicationDemoWorkshop.Pages
             var cpuUsedMs = (endCpuUsage - startCpuUsage).TotalMilliseconds;
             var totalMsPassed = (endTime - startTime).TotalMilliseconds;
             var cpuUsageTotal = cpuUsedMs / (Environment.ProcessorCount * totalMsPassed);
-            return string.Format("{0:P2}", cpuUsageTotal * 100) ;
+            return string.Format("{0:P2}", cpuUsageTotal) ;
         }
     }
 

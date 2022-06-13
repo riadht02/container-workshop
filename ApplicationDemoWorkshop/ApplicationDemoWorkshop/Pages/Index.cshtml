@@ -10,7 +10,8 @@
     <img src="http://www.agyla.cloud/wp-content/uploads/2021/02/Logo-Agyla-Cloud.png" />
 </div>
 <div class="row">
-    <h2>Total opened Sessions:  @GlobalVariables.SessionCount</h2>
+    <h2>Total number of sessions   : </h2>
+    <h2 id="sessionCount"></h2>
 </div>
 
 <div class="row">
@@ -27,9 +28,11 @@
     <h2 id="cpuUsage"></h2>
 </div>
 
-
 <div class="row">
     <div class="row">
         <img src="..\media\4.jpg" alt="Snow" style="width:150%">
     </div>
 </div>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/monitor.js"></script>

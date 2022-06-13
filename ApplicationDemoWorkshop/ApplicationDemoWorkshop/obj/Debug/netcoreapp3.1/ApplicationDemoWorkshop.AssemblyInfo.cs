@@ -14,7 +14,6 @@ using System.Reflection;
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e8260821-41d3-45ea-ac29-2d3a5abf5251")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApplicationDemoWorkshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("created by RISE")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApplicationDemoWorkshop")]
